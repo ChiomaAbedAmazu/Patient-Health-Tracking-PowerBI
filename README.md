@@ -49,7 +49,7 @@ This project presents an interactive **Patient Health Tracking Dashboard** devel
  
 > 💡 *This report is published using Power BI’s “Publish to Web” feature for public access.*
  
-🔗 **[Click here to view the live dashboard](https://app.powerbi.com/reportEmbed?reportId=635dd925-6825-42fb-bbea-7cc98d6d46f5&autoAuth=true&ctid=42f651b9-b59e-47f4-874e-b592803040f5)**  
+🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI1ODljYTctNWYyMC00MTRjLWJjYWEtNGQ1MWFiZTczYjc5IiwidCI6IjQyZjY1MWI5LWI1OWUtNDdmNC04NzRlLWI1OTI4MDMwNDBmNSIsImMiOjZ9)**  
 *(If the link above doesn't work you, please connect the author on the information found below)*
   
 ---
