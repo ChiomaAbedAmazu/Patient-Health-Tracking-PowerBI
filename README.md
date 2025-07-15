@@ -1,5 +1,4 @@
-# Patient-Health-Tracking-PowerBI
-This is a Healthcare Patient Tracking Dashboard
+
 # 🏥 Patient-Health-Tracking-PowerBI
  
 ## 📌 Project Overview
@@ -38,7 +37,7 @@ This project presents an interactive **Patient Health Tracking Dashboard** devel
 1. **Download and install** [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/healthcare-powerbi-dashboard.git
+   git clone https://github.com/ChiomaAbedAmazu/Patient-Health-Tracking-PowerBI.git
    ```
 3. Open `Healthcare Analysis Dashboard.pbix` in Power BI Desktop
 4. Update SQL connections if applicable
